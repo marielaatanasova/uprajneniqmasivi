@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masiviuprajneniq", "masiviu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chetnichisla2zadupr14", "chetnichisla2zadupr14\chetnichisla2zadupr14.csproj", "{BECA9485-A45B-4188-BED5-FB4AD4FCD7D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listkrainosti", "listkrainosti\listkrainosti.csproj", "{B0D43198-2E1A-4888-B7F1-C44E805788BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BECA9485-A45B-4188-BED5-FB4AD4FCD7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECA9485-A45B-4188-BED5-FB4AD4FCD7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECA9485-A45B-4188-BED5-FB4AD4FCD7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
