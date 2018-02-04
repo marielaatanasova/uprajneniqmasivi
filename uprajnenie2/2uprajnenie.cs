@@ -39,8 +39,8 @@ namespace masiviuprajneniq
 
                     case "Distinct":
                         {
-                            
-                            string[] newlist=numsList.Distinct().ToArray();
+
+                            string[] newlist = numsList.Distinct().ToArray();
                             Console.WriteLine(string.Join(" - ", newlist));
                             break;
 
@@ -50,9 +50,10 @@ namespace masiviuprajneniq
                         {
                             numsList = ReplaceMy(command, numsList);
                             break;
+
                         }
 
-                        Console.WriteLine(string.Join(" - ", numsList));
+
                 }
             }
             //Console.WriteLine(string.Join(" - ", numsList));

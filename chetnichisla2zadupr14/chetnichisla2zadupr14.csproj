@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{538FCB6F-D582-412E-A6A7-E590AA616372}</ProjectGuid>
+    <ProjectGuid>{BECA9485-A45B-4188-BED5-FB4AD4FCD7D6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>masiviuprajneniq</RootNamespace>
-    <AssemblyName>masiviuprajneniq</AssemblyName>
+    <RootNamespace>chetnichisla2zadupr14</RootNamespace>
+    <AssemblyName>chetnichisla2zadupr14</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="uprajnenie1.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

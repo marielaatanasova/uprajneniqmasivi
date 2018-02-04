@@ -1,0 +1,6 @@
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\bin\Debug\chetnichisla2zadupr14.exe.config
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\bin\Debug\chetnichisla2zadupr14.exe
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\bin\Debug\chetnichisla2zadupr14.pdb
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\obj\Debug\chetnichisla2zadupr14.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\obj\Debug\chetnichisla2zadupr14.exe
+E:\NP_ITMariela\masiviuprajneniq\chetnichisla2zadupr14\obj\Debug\chetnichisla2zadupr14.pdb
