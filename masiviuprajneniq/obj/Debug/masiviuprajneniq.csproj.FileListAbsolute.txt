@@ -1,0 +1,6 @@
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\obj\Debug\masiviuprajneniq.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\bin\Debug\masiviuprajneniq.exe.config
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\bin\Debug\masiviuprajneniq.exe
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\bin\Debug\masiviuprajneniq.pdb
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\obj\Debug\masiviuprajneniq.exe
+E:\NP_ITMariela\masiviuprajneniq\masiviuprajneniq\obj\Debug\masiviuprajneniq.pdb
