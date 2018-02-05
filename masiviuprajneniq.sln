@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chetnichisla2zadupr14", "ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listkrainosti", "listkrainosti\listkrainosti.csproj", "{B0D43198-2E1A-4888-B7F1-C44E805788BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11urok2uprajnenie2zadacha", "11urok2uprajnenie2zadacha\11urok2uprajnenie2zadacha.csproj", "{C179E7DB-25DA-4EB7-B17F-4758E38A48FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D43198-2E1A-4888-B7F1-C44E805788BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C179E7DB-25DA-4EB7-B17F-4758E38A48FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C179E7DB-25DA-4EB7-B17F-4758E38A48FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C179E7DB-25DA-4EB7-B17F-4758E38A48FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C179E7DB-25DA-4EB7-B17F-4758E38A48FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

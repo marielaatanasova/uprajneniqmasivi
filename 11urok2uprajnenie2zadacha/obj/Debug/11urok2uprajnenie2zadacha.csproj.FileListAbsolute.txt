@@ -1,0 +1,6 @@
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\bin\Debug\11urok2uprajnenie2zadacha.exe.config
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\bin\Debug\11urok2uprajnenie2zadacha.exe
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\bin\Debug\11urok2uprajnenie2zadacha.pdb
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\obj\Debug\11urok2uprajnenie2zadacha.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\obj\Debug\11urok2uprajnenie2zadacha.exe
+E:\NP_ITMariela\masiviuprajneniq\11urok2uprajnenie2zadacha\obj\Debug\11urok2uprajnenie2zadacha.pdb
